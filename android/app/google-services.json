@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736958372254",
+    "project_id": "tasktrek-55743",
+    "storage_bucket": "tasktrek-55743.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736958372254:android:e01806ede9491607b6de8f",
+        "android_client_info": {
+          "package_name": "com.example.task_trek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXM93D7k9XMTduBwooMJSLbn0nuJ20-DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
